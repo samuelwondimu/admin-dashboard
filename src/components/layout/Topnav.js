@@ -1,4 +1,4 @@
-import React, { Component, Fragment, useEffect } from "react";
+import React, { useEffect } from "react";
 import { connect } from "react-redux";
 import { getAllProfiles } from "../../actions/profiles";
 import { getAllUsers } from "../../actions/users";
